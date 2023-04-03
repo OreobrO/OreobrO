@@ -32,10 +32,11 @@
 
 
 ![bokoo's github stats](https://github-readme-stats.vercel.app/api?username=OreobrO&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bokoo14)](https://github.com/OreobrO/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oreobro)](https://github.com/OreobrO/github-readme-stats)
 
-<img src="http://mazandi.herokuapp.com/api?handle=OreobrO&theme=warm"/>
 <!--
+<img src="http://mazandi.herokuapp.com/api?handle=OreobrO&theme=warm"/>
+
 <br><br><br>
 [![Solved.ac 
 Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bokyung)](https://solved.ac/bokyung/) 
